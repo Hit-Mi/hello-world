@@ -1,2 +1,3 @@
 # hello-world
-new guy
+Hi ,
+It is a new day,let's learn now.
